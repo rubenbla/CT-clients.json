@@ -12,5 +12,18 @@
          "clientEmail":"Billy@Joel.com",
          "clientStatus":"active",
          "clientSelected":false
-      }   ]
+      } ,
+      {
+         "id":1002,
+         "clientName":"Julian Cope",
+         "clientIdentification":"229982339-T",
+         "clientOrigin":"mapfre",
+         "clientComments":"Earn points when your favorite politicians pass legislation.",
+         "clientBirthdate":"15-08-1965",
+         "clientBirthCountry":11,
+         "clientPhoneNumber":"+3468111854",
+         "clientEmail":"eric@clapton.com",
+         "clientStatus":"cancelled",
+         "clientSelected":false
+      }  ]
 }

@@ -11,7 +11,7 @@
       clientPhoneNumber: "+3468698854",
       clientEmail: "Billy@Joel.com",
       clientStatus: "active",
-      clientSelected: false,
+      clientSelected: false
     },
     {
       id: 1002,
@@ -25,7 +25,7 @@
       clientPhoneNumber: "+3468111854",
       clientEmail: "eric@clapton.com",
       clientStatus: "cancelled",
-      clientSelected: false,
+      clientSelected: false
     },
     {
       id: 1013,
@@ -37,7 +37,7 @@
       clientBirthCountry: 17,
       clientPhoneNumber: "+3468333854",
       clientStatus: "active",
-      clientSelected: false,
+      clientSelected: false
     },
     {
       id: 1204,
@@ -50,7 +50,7 @@
       clientPhoneNumber: "",
       clientEmail: "richad@butler.com",
       clientStatus: "active",
-      clientSelected: false,
+      clientSelected: false
     },
     {
       id: 1305,
@@ -63,7 +63,7 @@
       clientPhoneNumber: "+3468698666",
       clientEmail: "rod@stewart.com",
       clientStatus: "active",
-      clientSelected: false,
+      clientSelected: false
     },
     {
       id: 2106,
@@ -75,7 +75,7 @@
       clientBirthCountry: 9,
       clientPhoneNumber: "+3468698113",
       clientStatus: "active",
-      clientSelected: false,
+      clientSelected: false
     },
     {
       id: 20007,
@@ -86,7 +86,7 @@
       clientBirthCountry: 9,
       clientPhoneNumber: "+3468444234",
       clientStatus: "active",
-      clientSelected: false,
+      clientSelected: false
     },
     {
       id: 30008,
@@ -98,7 +98,7 @@
       clientPhoneNumber: "+3468987234",
       clientEmail: "phil@collins.com",
       clientStatus: "active",
-      clientSelected: false,
+      clientSelected: false
     },
     {
       id: 31009,
@@ -109,7 +109,7 @@
       clientBirthCountry: 9,
       clientPhoneNumber: "+3468698221",
       clientStatus: "active",
-      clientSelected: false,
+      clientSelected: false
     },
     {
       id: 41010,
@@ -120,7 +120,7 @@
       clientBirthCountry: 9,
       clientPhoneNumber: "+3468698666",
       clientStatus: "active",
-      clientSelected: false,
+      clientSelected: false
     },
   ]
 }
